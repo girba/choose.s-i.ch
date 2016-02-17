@@ -1,4 +1,5 @@
 #! /bin/sh
+# NB: This script is run as a cron job
 C=/home/choose/choose.s-i.ch
 G=/opt/pkg/bin/git
 H=asterix
