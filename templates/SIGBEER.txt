@@ -1,3 +1,4 @@
+Subject: CHOOSE Talk _DATE_ -- _TITLE_
 
 You are cordially invited to the following CHOOSE talk:
 
@@ -5,7 +6,7 @@ _TITLE_
 
 Speaker: _SPEAKER_
 
-Please register here: https://goo.gl/Hx8O5x
+Please register here: https://goo.gl/forms/lYnMhC5u0QPeoFpu2
 
 When: _DATE_
 
