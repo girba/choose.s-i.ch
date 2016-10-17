@@ -1,0 +1,28 @@
+
+You are cordially invited to the following CHOOSE talk:
+
+_TITLE_
+
+Speaker: _SPEAKER_
+
+Please register here: https://goo.gl/Hx8O5x
+
+When: _DATE_
+
+The talk will be followed by a light aperitif.
+
+Where: University of Bern, Engehaldenstrasse 8, 3012 Bern, Room _ROOM_
+
+Abstract:
+
+_ABSTRACT_
+
+Bio:
+
+_BIO_
+
+This event is free for all SI-CHOOSE members. Non members are encouraged to join:
+
+http://www.s-i.ch/en/members/
+
+
